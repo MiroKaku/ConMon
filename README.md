@@ -30,4 +30,4 @@ https://github.com/EyeOfRa/WinConMon
 
 ## Screenshot
 
-![Screenshot](https://github.com/MiroKaku/ConMon/raw/master/Sample.gif)
+![Screenshot](https://github.com/MiroKaku/ConMon/raw/master/Sample.jpg)
